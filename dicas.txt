@@ -14,4 +14,6 @@ collection_select helper- ex: <%= collection_select(:contact, :kind_id, Kind.all
 
 Reaproveitar trechos de codigos no rails , se chama partials
 
-i18N
+I18n - Internacionalização - pode deixar em outras linguas como o br  //Localize
+
+Active record - tambem pode traduzir as classes
