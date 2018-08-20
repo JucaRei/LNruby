@@ -9,3 +9,9 @@ ERB - Embedded Ruby
 Helper - ajuda a programacao html com ruby ex: <li><%= link_to "Tipos", kinds_path	%></li>
 
 REST - Transferencia de Estado Representacional
+
+collection_select helper- ex: <%= collection_select(:contact, :kind_id, Kind.all, :id, :description) %>
+
+Reaproveitar trechos de codigos no rails , se chama partials
+
+i18N
