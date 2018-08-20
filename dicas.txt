@@ -1,0 +1,11 @@
+Pela convenção do Rails todas as tabelas do Banco ficam no plural, ele numera automaticamente o id
+
+chave estrangeira no scaffold ex: kind:references
+
+gerar o controller no scaffold - rails g controller <controller> <action>
+
+ERB - Embedded Ruby
+
+Helper - ajuda a programacao html com ruby ex: <li><%= link_to "Tipos", kinds_path	%></li>
+
+REST - Transferencia de Estado Representacional
