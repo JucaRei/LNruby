@@ -2,3 +2,4 @@
   messages:
     confirm: Tem certeza?
     listing: Listando
+    errors: Por favor preencha os campos solicitados 

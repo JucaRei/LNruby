@@ -19,6 +19,9 @@ gem 'coffee-rails', '~> 4.1.0'
 #A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps 
 gem 'kaminari'
 
+# i18n for Kaminari
+gem 'kaminari-i18n'
+
 #Dynamic nested forms using jQuery made easy; works with formtastic, simple_form or default forms
 gem 'cocoon'
 

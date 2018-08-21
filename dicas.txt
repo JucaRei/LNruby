@@ -24,4 +24,8 @@ gem cocoon - n precisa atualizar a pagina
 
 helper cycle - alterna entre valor (cor)
 
+www.devmedia.com.br/artigos/Joel_Rodrigues/infografica=TagsHTML5.jpg
+
+remote:true		rails ajax - ativa a escuta javascript nesse componente(nao precisa fazer um reload completo da pagina)
+
 kaminari e will_paginate - gem de paginação
