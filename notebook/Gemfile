@@ -16,8 +16,17 @@ gem 'coffee-rails', '~> 4.1.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
+#A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps 
+gem 'kaminari'
+
+#Dynamic nested forms using jQuery made easy; works with formtastic, simple_form or default forms
+gem 'cocoon'
+
 # Repository for collecting Locale data for Ruby on Rails I18n as well as other interesting, Rails related I18n stuff http://rails-i18n.org
 gem 'rails-i18n', '~> 4.0' # For 4.0.x
+
+#Avoid repeating yourself, use pry-rails instead of copying the initializer to every rails project. This is a small gem which causes rails console to open pry. It therefore depends on pry.
+gem 'pry-rails', :group => :development
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'

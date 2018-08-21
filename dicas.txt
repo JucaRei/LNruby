@@ -17,3 +17,11 @@ Reaproveitar trechos de codigos no rails , se chama partials
 I18n - Internacionalização - pode deixar em outras linguas como o br  //Localize
 
 Active record - tambem pode traduzir as classes
+
+https://gist.github.com/jacksonpires/a9aa3359afd922497d3d110fe1020e62
+
+gem cocoon - n precisa atualizar a pagina
+
+helper cycle - alterna entre valor (cor)
+
+kaminari e will_paginate - gem de paginação
