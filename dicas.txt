@@ -29,3 +29,18 @@ www.devmedia.com.br/artigos/Joel_Rodrigues/infografica=TagsHTML5.jpg
 remote:true		rails ajax - ativa a escuta javascript nesse componente(nao precisa fazer um reload completo da pagina)
 
 kaminari e will_paginate - gem de paginação
+
+notify.js -integrar qualquer biblioteca externa ao rails (registra no asset pipeline)
+
+Bower - gerenciador de bibliotecas assets, js (Yarn, )
+
+Rails assets
+
+rake -T assets
+
+template enngine - Haml, slim
+
+form builders - ajuda a construir formularios (formtastic, simple_form)
+DSL - DOMAIN SPECIFIC LANGUAGE
+
+.html safe - tranforma em html

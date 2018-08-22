@@ -16,11 +16,18 @@ gem 'coffee-rails', '~> 4.1.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
+gem 'rails-assets-bootstrap', source: 'https://rails-assets.org'
+
 #A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps 
 gem 'kaminari'
 
 # i18n for Kaminari
 gem 'kaminari-i18n'
+
+gem 'rails-assets-notifyjs', source: 'https://rails-assets.org'
+
+# Bundler-like DSL + rake tasks for Bower on Rails
+#gem "bower-rails", "~> 0.11.0"
 
 #Dynamic nested forms using jQuery made easy; works with formtastic, simple_form or default forms
 gem 'cocoon'
